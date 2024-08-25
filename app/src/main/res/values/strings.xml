@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login_Page_Design</string>
+    <string name="Login_Username">User name</string>
+    <string name="Login_password">Password</string>
+    <string name="button_name">Login</string>
+    <string name="login_with_social">Login with social</string>
+</resources>
